@@ -1,0 +1,12 @@
+.hero {
+  width: 100vw;
+  height: 100dvh;
+  display: flex;
+}
+
+.hero-container {
+  margin: auto;
+}
+
+.hero-title {
+}

@@ -3,18 +3,25 @@ import style from "./People.module.css";
 
 const People = () => {
   return (
-    <section className={style.people}>
-      <h2>People</h2>
-      <div>
-        {/* Carousel */}
-        <div>
-          <h3>Person 1</h3>
-        </div>
-        <div>
-          <h3>Person 2</h3>
-        </div>
-        <div>
-          <h3>Person 3</h3>
+    <section className="bg-black text-white">
+      <div className="container mx-auto px-4 py-16">
+        <h2>People</h2>
+        <div className="flex flex-wrap justify-center items-center gap-12">
+          <div>
+            <p>Isildur</p>
+          </div>
+          <div>
+            <p>Déagol</p>
+          </div>
+          <div>
+            <p>Sméagol/Gollum</p>
+          </div>
+          <div>
+            <p>Bilbo Baggins</p>
+          </div>
+          <div>
+            <p>Frodo Baggins</p>
+          </div>
         </div>
       </div>
     </section>
