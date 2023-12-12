@@ -6,3 +6,13 @@ html,
 body {
   scroll-behavior: smooth;
 }
+
+.font-hero {
+  width: 920px;
+  margin: auto;
+  font-size: 12rem;
+  font-weight: 900;
+  line-height: 82%;
+  color: black;
+  mix-blend-mode: hue;
+}
