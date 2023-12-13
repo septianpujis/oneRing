@@ -25,22 +25,6 @@ const People = () => {
             </div>
           </div>
           <div>
-            <p>Déagol</p>
-            <div className="w-36 h-36 bg-yellow-500 rounded-full"></div>
-            <p>
-              Briefly held the Ring while fishing, but was murdered by his
-              friend Sméagol over its possession.
-            </p>
-            <div className="h-4 hover:h-full">
-              <p>
-                Déagol stumbled upon the Ring while fishing in the River Anduin.
-                However, his joy was short-lived as his friend Sméagol, consumed
-                by desire, killed him to claim it.
-              </p>
-              <Qoutes text={`Lorem Ipsum Dolor sit amet`} />
-            </div>
-          </div>
-          <div>
             <p>Sméagol/Gollum</p>
             <div className="w-36 h-36 bg-purple-500 rounded-full"></div>
             <p>
